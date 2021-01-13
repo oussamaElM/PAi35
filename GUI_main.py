@@ -6,7 +6,7 @@ import TCP_Client
 import time
 
 TIMEOUT=5
-DEBUG = False
+DEBUG = True
 PORT1 = 50007
 PORT2 = 50008
 class Wait(QtCore.QThread):

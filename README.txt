@@ -5,3 +5,7 @@ Requirements:
     PyQt5 (pip install PyQt5)
     
 Le fichier compilé (.exe) sera disponible prochainement ;).
+
+-----------------------------------------------------------------------------------
+
+:DEBUG = True: pour tester l'iterface 
